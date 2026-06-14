@@ -1,0 +1,6 @@
+{
+  "name": "Simulador SQL Escola",
+  "description": "Um simulador interativo de banco de dados SQL e playground de aprendizagem focado na criação e gestão do banco de dados ESCOLA e tabela ALUNO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
